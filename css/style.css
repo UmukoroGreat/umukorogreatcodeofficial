@@ -1,0 +1,91 @@
+.nav-link :hover{
+  color: aqua;
+}
+.image-thumbnail{
+  width: 500px;
+}
+.search{
+  margin-left: 600px;
+  margin-top: -65px;
+  border-radius: 10px;
+}
+.form-control{
+    background-color: black
+}
+
+html.a-js #navbar, html.a-no-js #navbar {
+    margin: 0!important;
+}
+#navbar.nav-bluebeacon {
+    background-color: #232f3e;
+}
+#navbar.nav-flex {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    position: static;
+    float: none;
+    -webkit-flex-flow: column nowrap;
+    -ms-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-box: 1;
+    -moz-box: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+}
+#navbar {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 198;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 1em;
+    display: block;
+    zoom: 1;
+    min-width: 1000px;
+}
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.a-ember body {
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+body {
+    color: #0F1111;
+}
+body {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial,sans-serif;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+    -webkit-locale: "en-us";
+}
+user agent stylesheet
+html {
+    display:" block";
+}
